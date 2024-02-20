@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mrq9LAKOTE41RWOut4jQ2Z1UuifxT9dCxjx6RrBKQsc=",
+  "Hash": "vSDQctMt7MSpKG1ISCrl9dTc1Hr9GNOWKEFvaGC7eZY=",
   "Source": "TrackingSystem",
   "BasePath": "_content/TrackingSystem",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\trqtm\\OneDrive\\Desktop\\TrackingSystem\\TrackingSystem\\TrackingSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TrackingSystem.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\trqtm\\OneDrive\\Desktop\\TrackingSystem\\TrackingSystem\\TrackingSystem\\wwwroot\\assets\\styles.css",
+      "SourceId": "TrackingSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\trqtm\\OneDrive\\Desktop\\TrackingSystem\\TrackingSystem\\TrackingSystem\\wwwroot\\",
+      "BasePath": "_content/TrackingSystem",
+      "RelativePath": "assets/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\styles.css"
     },
     {
       "Identity": "C:\\Users\\trqtm\\OneDrive\\Desktop\\TrackingSystem\\TrackingSystem\\TrackingSystem\\wwwroot\\css\\site.css",
