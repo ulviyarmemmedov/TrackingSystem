@@ -1,11 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\TrackingSystem",
-    "\\TrackingSystem\\Areas",
-    "\\TrackingSystem\\Areas\\Admin",
-    "\\TrackingSystem\\Areas\\Admin\\Views",
-    "\\TrackingSystem\\Areas\\Admin\\Views\\Shared"
+    "\\TrackingSystem"
   ],
   "SelectedNode": "\\TrackingSystem.sln",
   "PreviewInSolutionExplorer": false

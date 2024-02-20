@@ -9,5 +9,13 @@ namespace TrackingSystem.Areas.Admin.Controllers
         {
             return View();
         }
+        public IActionResult Countries()
+        {
+            return View();
+        }
+        public IActionResult AddCountry(int a)
+        {
+            return View();
+        }
     }
 }
