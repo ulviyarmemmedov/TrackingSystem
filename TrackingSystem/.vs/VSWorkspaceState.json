@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\TrackingSystem"
+    "\\TrackingSystem",
+    "\\TrackingSystem\\Repository"
   ],
   "SelectedNode": "\\TrackingSystem.sln",
   "PreviewInSolutionExplorer": false

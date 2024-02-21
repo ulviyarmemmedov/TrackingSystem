@@ -3,6 +3,8 @@ using TrackingSystem.Repository;
 using TrackingSystem;
 using System.Reflection;
 using Microsoft.Extensions.DependencyInjection;
+using FluentValidation.AspNetCore;
+using TrackingSystem.DAL;
 
 internal class Program
 {
@@ -14,11 +16,18 @@ internal class Program
         builder.Services.AddControllersWithViews();
         builder.Services.AddMvc();
 
+        builder.Services.AddDbContext<TrackingSystemDbContext>();
         //registering repository
         builder.Services.AddScoped<ICountryRepository, CountryRepository>();
 
         //registering automapper 
         builder.Services.AddAutoMapper(typeof(MappingConfig));
+
+        
+
+        builder.Services.AddControllers()
+    .AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<Program>());
+
 
         var app = builder.Build();
 
