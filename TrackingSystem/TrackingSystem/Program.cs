@@ -22,12 +22,9 @@ internal class Program
         builder.Services.AddScoped<ICountryRepository, CountryRepository>();
 
         //registering automapper 
-        builder.Services.AddAutoMapper(typeof(MappingConfig));
+        builder.Services.AddAutoMapper(typeof(MappingConfig));        
 
-        
-
-        builder.Services.AddControllers()
-    .AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<Program>());
+        builder.Services.AddControllers().AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<Program>());
 
 
         var app = builder.Build();
