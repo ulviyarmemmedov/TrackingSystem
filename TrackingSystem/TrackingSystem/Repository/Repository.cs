@@ -50,6 +50,7 @@ namespace TrackingSystem.Repository
             if (filter is not null)
             {
                 query = query.Where(filter);
+
             }
 
             //pagination
