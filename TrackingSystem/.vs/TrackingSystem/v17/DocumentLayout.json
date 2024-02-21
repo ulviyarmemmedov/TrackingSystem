@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|c:\\users\\lenovo-pc\\trackingsystem\\trackingsystem\\trackingsystem\\areas\\admin\\views\\dashboard\\addcountry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|solutionrelative:trackingsystem\\areas\\admin\\views\\dashboard\\addcountry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|c:\\users\\lenovo-pc\\trackingsystem\\trackingsystem\\trackingsystem\\areas\\admin\\views\\dashboard\\countries.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|solutionrelative:trackingsystem\\areas\\admin\\views\\dashboard\\countries.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|c:\\users\\lenovo-pc\\trackingsystem\\trackingsystem\\trackingsystem\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|solutionrelative:trackingsystem\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|c:\\users\\lenovo-pc\\trackingsystem\\trackingsystem\\trackingsystem\\wwwroot\\assets\\country\\js\\countrycrud.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|solutionrelative:trackingsystem\\wwwroot\\assets\\country\\js\\countrycrud.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|c:\\users\\lenovo-pc\\trackingsystem\\trackingsystem\\trackingsystem\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|solutionrelative:trackingsystem\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|c:\\users\\lenovo-pc\\trackingsystem\\trackingsystem\\trackingsystem\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|solutionrelative:trackingsystem\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|c:\\users\\lenovo-pc\\trackingsystem\\trackingsystem\\trackingsystem\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|solutionrelative:trackingsystem\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|c:\\users\\lenovo-pc\\trackingsystem\\trackingsystem\\trackingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|solutionrelative:trackingsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|c:\\users\\lenovo-pc\\trackingsystem\\trackingsystem\\trackingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|solutionrelative:trackingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|c:\\users\\lenovo-pc\\trackingsystem\\trackingsystem\\trackingsystem\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|solutionrelative:trackingsystem\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|c:\\users\\lenovo-pc\\trackingsystem\\trackingsystem\\trackingsystem\\repository\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|solutionrelative:trackingsystem\\repository\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|c:\\users\\lenovo-pc\\trackingsystem\\trackingsystem\\trackingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|solutionrelative:trackingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|c:\\users\\lenovo-pc\\trackingsystem\\trackingsystem\\trackingsystem\\trackingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -47,24 +79,8 @@
       "RelativeMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|solutionrelative:trackingsystem\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|c:\\users\\lenovo-pc\\trackingsystem\\trackingsystem\\trackingsystem\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|solutionrelative:trackingsystem\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|c:\\users\\lenovo-pc\\trackingsystem\\trackingsystem\\trackingsystem\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|solutionrelative:trackingsystem\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|c:\\users\\lenovo-pc\\trackingsystem\\trackingsystem\\trackingsystem\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|solutionrelative:trackingsystem\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|c:\\users\\lenovo-pc\\trackingsystem\\trackingsystem\\trackingsystem\\areas\\admin\\views\\dashboard\\countries.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|solutionrelative:trackingsystem\\areas\\admin\\views\\dashboard\\countries.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|c:\\users\\lenovo-pc\\trackingsystem\\trackingsystem\\trackingsystem\\areas\\admin\\views\\dashboard\\addcountry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|solutionrelative:trackingsystem\\areas\\admin\\views\\dashboard\\addcountry.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EEA12439-4692-4CD7-A6A4-B27A1042875E}|TrackingSystem\\TrackingSystem.csproj|c:\\users\\lenovo-pc\\trackingsystem\\trackingsystem\\trackingsystem\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -78,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,67 +130,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Program.cs",
-              "RelativeDocumentMoniker": "TrackingSystem\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Program.cs",
-              "RelativeToolTip": "TrackingSystem\\Program.cs",
-              "ViewState": "AQIAACYAAABAzczMzMwmwA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-20T09:51:54.549Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "TrackingSystem\\Repository\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Repository\\UserRepository.cs",
-              "RelativeToolTip": "TrackingSystem\\Repository\\UserRepository.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAwAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T08:21:00.913Z"
+              "Title": "Countries.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Areas\\Admin\\Views\\Dashboard\\Countries.cshtml",
+              "RelativeDocumentMoniker": "TrackingSystem\\Areas\\Admin\\Views\\Dashboard\\Countries.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Areas\\Admin\\Views\\Dashboard\\Countries.cshtml",
+              "RelativeToolTip": "TrackingSystem\\Areas\\Admin\\Views\\Dashboard\\Countries.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T12:07:39.91Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CountryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Repository\\CountryRepository.cs",
-              "RelativeDocumentMoniker": "TrackingSystem\\Repository\\CountryRepository.cs",
-              "ToolTip": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Repository\\CountryRepository.cs",
-              "RelativeToolTip": "TrackingSystem\\Repository\\CountryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T08:35:45.404Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TrackingSystem.csproj",
-              "DocumentMoniker": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\TrackingSystem.csproj",
-              "RelativeDocumentMoniker": "TrackingSystem\\TrackingSystem.csproj",
-              "ToolTip": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\TrackingSystem.csproj",
-              "RelativeToolTip": "TrackingSystem\\TrackingSystem.csproj",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "TrackingSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\appsettings.json",
+              "RelativeToolTip": "TrackingSystem\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-21T08:18:39.002Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-21T12:13:45.506Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Repository\\IRepository\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "TrackingSystem\\Repository\\IRepository\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Repository\\IRepository\\IUserRepository.cs",
-              "RelativeToolTip": "TrackingSystem\\Repository\\IRepository\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T08:24:43.503Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Repository\\Repository.cs",
               "RelativeDocumentMoniker": "TrackingSystem\\Repository\\Repository.cs",
@@ -187,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "ICountryRepository.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Repository\\IRepository\\ICountryRepository.cs",
               "RelativeDocumentMoniker": "TrackingSystem\\Repository\\IRepository\\ICountryRepository.cs",
@@ -199,7 +181,146 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "TrackingSystem\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "TrackingSystem\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAAgAAACgl5mZmZkuwAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T10:33:03.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CountryCRUD.js",
+              "DocumentMoniker": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\wwwroot\\assets\\Country\\Js\\CountryCRUD.js",
+              "RelativeDocumentMoniker": "TrackingSystem\\wwwroot\\assets\\Country\\Js\\CountryCRUD.js",
+              "ToolTip": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\wwwroot\\assets\\Country\\Js\\CountryCRUD.js",
+              "RelativeToolTip": "TrackingSystem\\wwwroot\\assets\\Country\\Js\\CountryCRUD.js",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwBIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-02-21T11:48:21.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddCountry.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Areas\\Admin\\Views\\Dashboard\\AddCountry.cshtml",
+              "RelativeDocumentMoniker": "TrackingSystem\\Areas\\Admin\\Views\\Dashboard\\AddCountry.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Areas\\Admin\\Views\\Dashboard\\AddCountry.cshtml",
+              "RelativeToolTip": "TrackingSystem\\Areas\\Admin\\Views\\Dashboard\\AddCountry.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T12:14:01.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "TrackingSystem\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "TrackingSystem\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T10:30:28.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Repository\\IRepository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "TrackingSystem\\Repository\\IRepository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Repository\\IRepository\\IUserRepository.cs",
+              "RelativeToolTip": "TrackingSystem\\Repository\\IRepository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T08:24:43.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "TrackingSystem\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Models\\Country.cs",
+              "RelativeToolTip": "TrackingSystem\\Models\\Country.cs",
+              "ViewState": "AQIAAAUAAABQZmZmZuY8wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T12:36:28.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TrackingSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\TrackingSystem.csproj",
+              "RelativeDocumentMoniker": "TrackingSystem\\TrackingSystem.csproj",
+              "ToolTip": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\TrackingSystem.csproj",
+              "RelativeToolTip": "TrackingSystem\\TrackingSystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-21T08:18:39.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "TrackingSystem\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\MappingConfig.cs",
+              "RelativeToolTip": "TrackingSystem\\MappingConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T12:13:48.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CountryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Repository\\CountryRepository.cs",
+              "RelativeDocumentMoniker": "TrackingSystem\\Repository\\CountryRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Repository\\CountryRepository.cs",
+              "RelativeToolTip": "TrackingSystem\\Repository\\CountryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T08:35:45.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "TrackingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Program.cs",
+              "RelativeToolTip": "TrackingSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T09:51:54.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "TrackingSystem\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "TrackingSystem\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T08:21:00.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Repository\\IRepository\\IRepository.cs",
               "RelativeDocumentMoniker": "TrackingSystem\\Repository\\IRepository\\IRepository.cs",
@@ -211,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Models\\Order.cs",
               "RelativeDocumentMoniker": "TrackingSystem\\Models\\Order.cs",
@@ -223,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "TrackingSystem\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -235,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "TrackingSystem\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -247,31 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "TrackingSystem\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "TrackingSystem\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-20T10:33:03.838Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "TrackingSystem\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "TrackingSystem\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAkwBEAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-20T10:30:28.207Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "TrackingSystem\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
@@ -283,31 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Countries.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Areas\\Admin\\Views\\Dashboard\\Countries.cshtml",
-              "RelativeDocumentMoniker": "TrackingSystem\\Areas\\Admin\\Views\\Dashboard\\Countries.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Areas\\Admin\\Views\\Dashboard\\Countries.cshtml",
-              "RelativeToolTip": "TrackingSystem\\Areas\\Admin\\Views\\Dashboard\\Countries.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-20T12:07:39.91Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AddCountry.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Areas\\Admin\\Views\\Dashboard\\AddCountry.cshtml",
-              "RelativeDocumentMoniker": "TrackingSystem\\Areas\\Admin\\Views\\Dashboard\\AddCountry.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\Areas\\Admin\\Views\\Dashboard\\AddCountry.cshtml",
-              "RelativeToolTip": "TrackingSystem\\Areas\\Admin\\Views\\Dashboard\\AddCountry.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-20T12:14:01.044Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "TrackingSystem\\ScaffoldingReadMe.txt",
