@@ -503,3 +503,9 @@ C:\Users\Ilgar\Desktop\New folder\TrackingSystem\TrackingSystem\obj\Debug\net8.0
 C:\Users\Ilgar\Desktop\New folder\TrackingSystem\TrackingSystem\obj\Debug\net8.0\TrackingSystem.pdb
 C:\Users\Ilgar\Desktop\New folder\TrackingSystem\TrackingSystem\obj\Debug\net8.0\TrackingSystem.genruntimeconfig.cache
 C:\Users\Ilgar\Desktop\New folder\TrackingSystem\TrackingSystem\obj\Debug\net8.0\ref\TrackingSystem.dll
+C:\Users\trqtm\OneDrive\Desktop\TrackingSystem\TrackingSystem\TrackingSystem\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\trqtm\OneDrive\Desktop\TrackingSystem\TrackingSystem\TrackingSystem\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\trqtm\OneDrive\Desktop\TrackingSystem\TrackingSystem\TrackingSystem\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\trqtm\OneDrive\Desktop\TrackingSystem\TrackingSystem\TrackingSystem\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\trqtm\OneDrive\Desktop\TrackingSystem\TrackingSystem\TrackingSystem\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\trqtm\OneDrive\Desktop\TrackingSystem\TrackingSystem\TrackingSystem\obj\Debug\net8.0\TrackingSystem.MvcApplicationPartsAssemblyInfo.cs
