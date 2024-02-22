@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Uniser Intern\\TrackingSystem\\TrackingSystem\\TrackingSystem\\TrackingSystem.csproj": {}
+    "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\TrackingSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Uniser Intern\\TrackingSystem\\TrackingSystem\\TrackingSystem\\TrackingSystem.csproj": {
+    "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\TrackingSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Uniser Intern\\TrackingSystem\\TrackingSystem\\TrackingSystem\\TrackingSystem.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\TrackingSystem.csproj",
         "projectName": "TrackingSystem",
-        "projectPath": "C:\\Users\\User\\Desktop\\Uniser Intern\\TrackingSystem\\TrackingSystem\\TrackingSystem\\TrackingSystem.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Uniser Intern\\TrackingSystem\\TrackingSystem\\TrackingSystem\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\TrackingSystem.csproj",
+        "packagesPath": "C:\\Users\\Lenovo-PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo-PC\\TrackingSystem\\TrackingSystem\\TrackingSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lenovo-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
