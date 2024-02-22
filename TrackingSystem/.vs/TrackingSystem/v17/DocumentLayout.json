@@ -136,7 +136,7 @@
               "RelativeDocumentMoniker": "TrackingSystem\\DAL\\TrackingSystemDbContext.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Uniser Intern\\TrackingSystem\\TrackingSystem\\TrackingSystem\\DAL\\TrackingSystemDbContext.cs",
               "RelativeToolTip": "TrackingSystem\\DAL\\TrackingSystemDbContext.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAkwCEAAAAoAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAqwCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-22T07:20:40.643Z",
               "EditorCaption": ""
@@ -151,8 +151,7 @@
               "RelativeToolTip": "TrackingSystem\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
               "ViewState": "AQIAABIAAAAAAAAAAAAAAA0AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-20T10:33:03.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-20T10:33:03.838Z"
             },
             {
               "$type": "Document",
@@ -164,8 +163,7 @@
               "RelativeToolTip": "TrackingSystem\\Areas\\Admin\\Views\\Dashboard\\AddCountry.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-20T12:14:01.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-20T12:14:01.044Z"
             },
             {
               "$type": "Document",
@@ -177,8 +175,7 @@
               "RelativeToolTip": "TrackingSystem\\Areas\\Admin\\Views\\Dashboard\\Countries.cshtml",
               "ViewState": "AQIAAGcAAAAAAAAAAAAAABMAAABgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-20T12:07:39.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-20T12:07:39.91Z"
             },
             {
               "$type": "Document",
@@ -190,8 +187,7 @@
               "RelativeToolTip": "TrackingSystem\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-20T11:02:14.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-20T11:02:14.985Z"
             },
             {
               "$type": "Document",
@@ -203,8 +199,7 @@
               "RelativeToolTip": "TrackingSystem\\Program.cs",
               "ViewState": "AQIAAB8AAAAAAAAAAAAQwCQAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-20T09:51:54.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-20T09:51:54.549Z"
             },
             {
               "$type": "Document",
@@ -216,8 +211,7 @@
               "RelativeToolTip": "TrackingSystem\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-20T10:30:28.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-20T10:30:28.207Z"
             },
             {
               "$type": "Document",
@@ -229,8 +223,7 @@
               "RelativeToolTip": "TrackingSystem\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-02-21T12:13:45.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-21T12:13:45.506Z"
             },
             {
               "$type": "Document",
