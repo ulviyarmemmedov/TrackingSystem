@@ -1,0 +1,19 @@
+﻿<form method="post">
+    <div class="form-group mt-3">
+@*         <label asp-for="Name"></label>
+ *@        
+            <input class="form-control" type="text" />
+@*         <span asp-validation-for="Name" class="text-danger"></span>
+ *@    </div>
+    <div class="form-group mt-3">
+        @*         <label asp-for="Name"></label>
+        *@
+        <input class="form-control" type="number" />
+        @*         <span asp-validation-for="Name" class="text-danger"></span>
+        *@
+    </div>
+    <div class="reset-button">
+        <button class="btn btn-success mt-2">Add country</button>
+        <a class="btn btn-primary mt-2" asp-action="Countries" asp-area="Admin" asp-controller="Dashboard">Exit</a>
+    </div>
+</form>
