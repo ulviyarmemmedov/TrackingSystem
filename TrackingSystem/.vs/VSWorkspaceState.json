@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\TrackingSystem",
-    "\\TrackingSystem\\Repository"
+    "\\TrackingSystem\\Repository",
+    "\\TrackingSystem\\Repository\\IRepository"
   ],
-  "SelectedNode": "\\TrackingSystem.sln",
+  "SelectedNode": "\\TrackingSystem\\Repository\\IRepository\\ICountryRepository.cs",
   "PreviewInSolutionExplorer": false
 }

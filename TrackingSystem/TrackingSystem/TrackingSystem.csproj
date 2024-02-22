@@ -23,6 +23,7 @@
     <Folder Include="Areas\Admin\Models\" />
     <Folder Include="DTO\" />
     <Folder Include="FluentValidators\" />
+    <Folder Include="ViewModel\" />
   </ItemGroup>
 
 </Project>
