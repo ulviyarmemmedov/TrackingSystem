@@ -119,7 +119,7 @@
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.201\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.201\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
-              "ViewState": "AQIAANcBAAAAAAAAAAAcwNoBAAAEAAAA",
+              "ViewState": "AQIAANEBAAAAAAAAAAAcwNoBAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2024-02-23T07:02:36.907Z",
               "EditorCaption": ""
@@ -183,8 +183,7 @@
               "RelativeToolTip": "TrackingSystem\\Repository\\IRepository\\ICountryRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T08:34:52.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-21T08:34:52.422Z"
             },
             {
               "$type": "Document",
@@ -196,8 +195,7 @@
               "RelativeToolTip": "TrackingSystem\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAmwBUAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-20T10:30:28.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-20T10:30:28.207Z"
             },
             {
               "$type": "Document",
