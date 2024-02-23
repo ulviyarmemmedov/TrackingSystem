@@ -7,13 +7,11 @@ namespace TrackingSystem.DAL;
 
 public partial class TrackingSystemDbContext : DbContext
 {
-    public TrackingSystemDbContext()
-    {
-    }
-
-    public TrackingSystemDbContext(DbContextOptions<TrackingSystemDbContext> options)
+    private readonly IConfiguration _configuration;
+    public TrackingSystemDbContext(DbContextOptions<TrackingSystemDbContext> options, IConfiguration configuration)
         : base(options)
     {
+        _configuration = configuration;
     }
 
     public virtual DbSet<Country> Countries { get; set; }
@@ -31,7 +29,7 @@ public partial class TrackingSystemDbContext : DbContext
     public virtual DbSet<User> Users { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        => optionsBuilder.UseSqlServer("Data Source=.;Initial Catalog=TrackingSystemDB;Integrated Security=True;Trust Server Certificate=True");
+        => optionsBuilder.UseSqlServer(_configuration.GetConnectionString("Default"));
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
