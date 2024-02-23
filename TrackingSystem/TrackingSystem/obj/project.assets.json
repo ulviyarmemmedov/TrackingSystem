@@ -8051,19 +8051,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Ilgar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Uniser Intern\\TrackingSystem\\TrackingSystem\\TrackingSystem\\TrackingSystem.csproj",
+      "projectUniqueName": "C:\\Users\\Ilgar\\Desktop\\TrackingSystem\\TrackingSystem\\TrackingSystem\\TrackingSystem.csproj",
       "projectName": "TrackingSystem",
-      "projectPath": "C:\\Users\\User\\Desktop\\Uniser Intern\\TrackingSystem\\TrackingSystem\\TrackingSystem\\TrackingSystem.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Uniser Intern\\TrackingSystem\\TrackingSystem\\TrackingSystem\\obj\\",
+      "projectPath": "C:\\Users\\Ilgar\\Desktop\\TrackingSystem\\TrackingSystem\\TrackingSystem\\TrackingSystem.csproj",
+      "packagesPath": "C:\\Users\\Ilgar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ilgar\\Desktop\\TrackingSystem\\TrackingSystem\\TrackingSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ilgar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

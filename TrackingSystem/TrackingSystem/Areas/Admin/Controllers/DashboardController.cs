@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using TrackingSystem.DTO;
 
 namespace TrackingSystem.Areas.Admin.Controllers
 {
@@ -13,8 +14,18 @@ namespace TrackingSystem.Areas.Admin.Controllers
         {
             return View();
         }
-        public IActionResult AddCountry(int a)
+        public IActionResult AddCountry()
         {
+            return View();
+        }
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult AddCountry(AddCountryDTO addCountryDTO)
+        {
+            if (ModelState.IsValid)
+            {
+                return RedirectToAction("Countries", "Dashboard");
+            }
             return View();
         }
     }
