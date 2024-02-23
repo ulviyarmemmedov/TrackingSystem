@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\TrackingSystem.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\trqtm\\OneDrive\\Desktop\\TrackingSystem\\TrackingSystem\\TrackingSystem\\wwwroot\\assets\\Country\\Css\\CountryCRUD.css",
+      "PackagePath": "staticwebassets\\assets\\Country\\Css\\CountryCRUD.css"
+    },
+    {
+      "Id": "C:\\Users\\trqtm\\OneDrive\\Desktop\\TrackingSystem\\TrackingSystem\\TrackingSystem\\wwwroot\\assets\\Country\\Js\\CountryCRUD.js",
+      "PackagePath": "staticwebassets\\assets\\Country\\Js\\CountryCRUD.js"
+    },
+    {
       "Id": "C:\\Users\\trqtm\\OneDrive\\Desktop\\TrackingSystem\\TrackingSystem\\TrackingSystem\\wwwroot\\assets\\styles.css",
       "PackagePath": "staticwebassets\\assets\\styles.css"
     },
