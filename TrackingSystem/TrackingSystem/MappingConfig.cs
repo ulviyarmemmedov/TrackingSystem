@@ -9,6 +9,7 @@ namespace TrackingSystem
         public MappingConfig()
         {
             CreateMap<Country, AddCountryDTO>().ReverseMap();
-        }
-    }
+			CreateMap<AddCountryDTO, Country>().ReverseMap();
+		}
+	}
 }

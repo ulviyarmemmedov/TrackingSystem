@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrackingSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fae854e5df78d3ca16dda9e68280687362f5074")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fcc6a31d4838d4d23f3e60930a130153aac8619")]
+>>>>>>> 691c2f3915a47ec01c54fd9c1e127c49dd72eb78
 [assembly: System.Reflection.AssemblyProductAttribute("TrackingSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrackingSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
