@@ -1,4 +1,6 @@
 ﻿using AutoMapper;
+using TrackingSystem.DTO;
+using TrackingSystem.Models;
 
 namespace TrackingSystem
 {
@@ -6,20 +8,7 @@ namespace TrackingSystem
     {
         public MappingConfig()
         {
-
-            // ReverseMap() function ensures that mapping can be done from both side
-            //CreateMap<Villa, VillaDTO>().ReverseMap();
-            //CreateMap<Villa, VillaCreateDTO>().ReverseMap();
-            //CreateMap<Villa, VillaUpdateDTO>().ReverseMap();
-            //
-            //CreateMap<VillaNumber, VillaNumberDTO>().ReverseMap();
-            //CreateMap<VillaNumber, VillaNumberCreateDTO>().ReverseMap();
-            //CreateMap<VillaNumber, VillaNumberUpdateDTO>().ReverseMap();
-
-            // after identity
-
-            //mapping for ApplicationUser and UserDTO classes 
-            //CreateMap<ApplicationUser, UserDTO>().ReverseMap();
+            CreateMap<Country, AddCountryDTO>().ReverseMap();
         }
     }
 }
