@@ -6,6 +6,7 @@ using TrackingSystem.Repository.IRepository;
 
 namespace TrackingSystem.Areas.Admin.Controllers
 {
+    
     [Area("Admin")]
     public class DashboardController : Controller
     {
