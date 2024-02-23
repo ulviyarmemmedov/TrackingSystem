@@ -11,8 +11,5 @@ namespace TrackingSystem.Repository
         {
             _trackingSystemDbContext = dbContext;
         }
-
-
-
     }
 }

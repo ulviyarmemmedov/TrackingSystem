@@ -9,5 +9,7 @@ namespace TrackingSystem.Repository.IRepository
         Task CreateAsync(T entity);
         Task RemoveAsync(T entity);        
         Task SaveAsync();
-    }
+        Task UpdateAsync(T villa);
+
+	}
 }

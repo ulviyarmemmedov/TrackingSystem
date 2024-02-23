@@ -11,7 +11,7 @@ public partial class Country
 
     public int CountryCode { get; set; }
 
-    public bool Status { get; set; }
+    public bool Status { get; set; } = true;
 
     public virtual ICollection<Order> OrderDestinationCountries { get; set; } = new List<Order>();
 

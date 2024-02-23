@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
+using System.Diagnostics.Metrics;
 using TrackingSystem.DTO;
 using TrackingSystem.Models;
 using TrackingSystem.Repository.IRepository;
@@ -20,12 +21,14 @@ namespace TrackingSystem.Areas.Admin.Controllers
         {
             return View();
         }
-        public IActionResult Countries()
+        public async Task<IActionResult> Countries()
         {
-            return View();
+            var items=await _countryRepository.GetAllAsync(x=>x.Status==true);
+            return View(items);
         }
         public IActionResult AddCountry()
         {
+            ViewData["name"] = "Add country";
             return View();
         }
         [HttpPost]
@@ -37,7 +40,37 @@ namespace TrackingSystem.Areas.Admin.Controllers
                 await _countryRepository.CreateAsync(_mapper.Map<Country>(addCountryDTO));
                 return RedirectToAction("Countries", "Dashboard");
             }
+            ViewData["name"] = "Add country";
             return View();
         }
+        public async Task<IActionResult>UpdateCountry(int id)
+        {
+            var country = await _countryRepository.GetAsync(c=>c.Id==id&&c.Status==true);
+            if(country == null)
+            {
+                return RedirectToAction("Countries", "Dashboard");
+            }
+            ViewData["name"] = "Update country";
+            return View("AddCountry", _mapper.Map<AddCountryDTO>(country));
+        }
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult>UpdateCountry(AddCountryDTO addCountryDTO)
+        {
+            if (ModelState.IsValid)
+            {
+                var country = await _countryRepository.GetAsync(c => c.Id == addCountryDTO.ID && c.Status == true, false);
+                if(country != null)
+                {
+                    country=_mapper.Map<Country>(addCountryDTO);
+                    await _countryRepository.UpdateAsync(country);
+                }
+                return RedirectToAction("Countries", "Dashboard");
+            }
+            ViewData["name"] = "Update country";
+            return View("AddCountry");
+        }
+
     }
 }
+
