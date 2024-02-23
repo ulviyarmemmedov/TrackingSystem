@@ -7,7 +7,7 @@ namespace TrackingSystem.FluentValidators
     {
         public AddCountryDTOValidator()
         {
-            RuleFor(s => s.CountryName)
+            RuleFor(s => s.Name)
                 .NotEmpty()
                 .MinimumLength(3)
                 .MaximumLength(30);

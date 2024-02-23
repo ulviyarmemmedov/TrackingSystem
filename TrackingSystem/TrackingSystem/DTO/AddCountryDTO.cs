@@ -2,7 +2,7 @@
 {
     public class AddCountryDTO
     {
-        public string? CountryName { get; set; }
+        public string? Name { get; set; }
         public int CountryCode { get; set; }
     }
 }
