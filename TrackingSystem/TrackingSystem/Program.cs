@@ -5,6 +5,9 @@ using System.Reflection;
 using Microsoft.Extensions.DependencyInjection;
 using FluentValidation.AspNetCore;
 using TrackingSystem.DAL;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc.Authorization;
 
 internal class Program
 {
@@ -15,7 +18,12 @@ internal class Program
 
         // Add services to the container.
         builder.Services.AddControllersWithViews();
-        builder.Services.AddMvc();
+        builder.Services.AddMvc(x =>
+        {
+           var policy = new AuthorizationPolicyBuilder().RequireAuthenticatedUser().Build();
+           x.Filters.Add(new AuthorizeFilter(policy));
+        });
+
 
         builder.Services.AddDbContext<TrackingSystemDbContext>();
         //registering repository
@@ -26,7 +34,14 @@ internal class Program
 
         builder.Services.AddControllers().AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<Program>());
 
+        builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(
+            x =>
+            {
+                x.LoginPath = "";
+                x.AccessDeniedPath = "";                
+            });
 
+        
         var app = builder.Build();
          
         // Configure the HTTP request pipeline.
@@ -44,6 +59,8 @@ internal class Program
 
         app.UseRouting();
 
+        // auth
+        app.UseAuthentication();
         app.UseAuthorization();
 
 		app.MapControllerRoute(
