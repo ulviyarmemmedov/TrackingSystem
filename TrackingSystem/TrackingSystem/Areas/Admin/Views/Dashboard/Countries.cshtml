@@ -1,4 +1,5 @@
-﻿@section css {
+﻿@model List<TrackingSystem.Models.Country>
+@section css {
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Varela+Round">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
 	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
@@ -6,8 +7,6 @@
 	<link rel="stylesheet" href="~/assets/Country/Css/CountryCRUD.css" />
 	
 }
-
-
 <div class="container-xl">
 	<div class="table-responsive">
 		<div class="table-wrapper">
@@ -37,22 +36,23 @@
 					</tr>
 				</thead>
 				<tbody>
-					<tr>
-						<td>
-							<span class="custom-checkbox">
-								<input type="checkbox" id="checkbox1" name="options[]" value="1">
-								<label for="checkbox1"></label>
-							</span>
-						</td>
-						<td>AZE</td>
-						<td>+994</td>
-						
-						<td>
-							<a  class="edit" data-toggle="modal" asp-action="" asp-controller="" asp-area="admin"><i class="material-icons" data-toggle="tooltip" title="Edit">&#xE254;</i></a>
-							<a href="#deleteEmployeeModal" class="delete" data-toggle="modal" ><i class="material-icons" data-toggle="tooltip" title="Delete">&#xE872;</i></a>
-						</td>
-					</tr>
-					
+					@foreach (var item in Model)
+					{
+						<tr>
+							<td>
+								<span class="custom-checkbox">
+									<input type="checkbox" id="checkbox1" name="options[]" value="1">
+									<label for="checkbox1"></label>
+								</span>
+							</td>
+							<td>@item.Name</td>
+							<td>@item.CountryCode</td>
+							<td>
+								<a class="edit" data-toggle="modal" asp-action="UpdateCountry" asp-controller="Dashboard" asp-area="Admin" asp-route-id=@item.Id><i class="material-icons" data-toggle="tooltip" title="Edit">&#xE254;</i></a>
+								<a href="#deleteEmployeeModal" class="delete" data-toggle="modal"><i class="material-icons" data-toggle="tooltip" title="Delete">&#xE872;</i></a>
+							</td>
+						</tr>
+					}	
 				</tbody>
 			</table>
 			<div class="clearfix">
